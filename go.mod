@@ -1,4 +1,4 @@
-module github.com/mhk19/gin-jwt/v2
+module github.com/mhk19/gin-jwt
 
 go 1.14
 
